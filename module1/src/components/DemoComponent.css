@@ -1,0 +1,33 @@
+.myComponent{
+    background-color: white;
+    height: 90px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
+    width: 80%;
+    margin: auto;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    color: black;
+}
+
+.showName, .showAge{
+    width: 25%;
+    background-color: #A5C8E4;
+    border-radius: 10px;
+    align-items: center;
+    padding-top: 34px;
+    border: 2px solid white;
+}
+
+.buttonStyle{
+    background-color: #C0ECCC;
+    border: 1px solid #C0ECCC;
+    border-radius: 10px;
+}
+
+/* .showType{
+    width: 35%;
+} */
